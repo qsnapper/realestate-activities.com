@@ -1,0 +1,25 @@
+
+.content :where(h1):not(:where([class~=not-prose],[class~=not-prose] *)) {
+    color: #990099;
+  }
+
+  .content :where(h2):not(:where([class~=not-prose],[class~=not-prose] *)) {
+    color: #990099;
+  }
+
+  .content :where(h3):not(:where([class~=not-prose],[class~=not-prose] *)) {
+    color: #990099;
+  }
+  .content :where(h3):not(:where([class~=not-prose],[class~=not-prose] *)):is(html[class~="dark"] *) {
+    color: #990099;
+  }
+
+  .custom-title {
+    color: #990099;
+  }
+  
+
+  /* Override color for .custom-title in dark mode */
+  :where(.custom-title):is(html[class~="dark"] *) {
+  color: inherit; /* Or specify another color suitable for dark mode */
+  }

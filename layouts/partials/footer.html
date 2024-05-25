@@ -6,7 +6,9 @@
 
 {{- $companyName := .Site.Params.footerCompanyName | default "ROBAN Realestate Ldª t.a.v. Robert M.L. Snapper" -}}
 {{- $address := .Site.Params.footerAddress | default "Rua Dr. Paulo J. Godinho Lote 5 – Loja C 8600-774 Lagos" -}}
-{{- $contactInfo := .Site.Params.footerContactInfo | default "Tel: +351 282 768 821 Fax: +351 282 768 827 Mobile: +351 917 566 931" -}}
+{{- $contactInfo1 := .Site.Params.footerContactInfo1 | default "Tel: +351 282 768 821" -}}
+{{- $contactInfo2 := .Site.Params.footerContactInfo2 | default "Fax: +351 282 768 827" -}}
+{{- $contactInfo3 := .Site.Params.footerContactInfo3 | default "Mobile: +351 917 566 931" -}}
 {{- $email := .Site.Params.footerEmail | default "E-Mail: rs@realestate-activities.com" -}}
 {{- $url := .Site.Params.footerUrl | default "URL: http://www.realestate-activities.com" -}}
 
@@ -34,11 +36,13 @@
   <div
     class="{{ $footerWidth }} hx-mx-auto hx-flex hx-justify-center hx-py-12 hx-pl-[max(env(safe-area-inset-left),1.5rem)] hx-pr-[max(env(safe-area-inset-right),1.5rem)] hx-text-gray-600 dark:hx-text-gray-400 md:hx-justify-start"
   >
-    <div class="hx-flex hx-w-full hx-flex-col hx-items-center sm:hx-items-start">
+    <div class="hx-flex hx-w-full hx-flex-col  sm:hx-items-start">
       
       <div class="hx-font-semibold">{{ $companyName }}</div>
       <div class="hx-text-sm">{{ $address }}</div>
-      <div class="hx-text-sm">{{ $contactInfo }}</div>
+      <div class="hx-text-sm">{{ $contactInfo1 }}</div>
+      <div class="hx-text-sm">{{ $contactInfo2 }}</div>
+      <div class="hx-text-sm">{{ $contactInfo3 }}</div>
       <div class="hx-text-sm hx-font-semibold"> <a href="mailto:{{ $email }}">{{ $email }}</a></div>
       <div class="hx-text-sm hx-font-semibold">
         <a href="http://www.realestate-activities.com" target="_blank" >{{ $url }}</a>

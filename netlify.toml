@@ -1,6 +1,6 @@
 [build]
-publish = "exampleSite/public"
-command = "cd exampleSite && hugo --gc --minify --themesDir ../.. -b ${DEPLOY_PRIME_URL}"
+publish = "public"
+command = "hugo --gc --minify"
 
 # Always trigger a rebuild, even if the files haven't changed.
 # See https://docs.netlify.com/configure-builds/file-based-configuration/#ignore-builds

@@ -28,6 +28,43 @@ export default defineConfig({
   // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
   schema: {
     collections: [
+
+      // Home Page 
+
+      {
+        name: "home",
+        label: "Home Page",
+        path: "content/",
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+        },
+        match: {
+          include: "**_index*",
+        },
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+          },
+          {
+            type: "string",
+            name: "layout",
+            label: "Default value - Do not change",
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+        ],
+      },
+
+      // About Page
       {
         name: "about",
         label: "About Page",
@@ -149,6 +186,52 @@ export default defineConfig({
           },
         ],
       },
+
+      // Services Page
+
+      {
+        name: "docs",
+        label: "Services Page",
+        path: "content/docs",
+        ui: {
+          allowedActions: {
+            create: true,
+            delete: true,
+          },
+        },
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+            isTitle: true,
+            required: true,
+          },
+          {
+            type: "string",
+            name: "description",
+            label: "Enter a description",
+          },
+          {
+            type: "datetime",
+            name: "date",
+            label: "Publish Date",
+          },
+          {
+            type: "boolean",
+            name: "draft",
+            label: "Default value is false - Making True will not show the post in UI",
+          },
+
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+        ],
+      },
+      
     ],
   },
 });

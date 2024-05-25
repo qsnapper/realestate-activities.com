@@ -23,9 +23,9 @@ languages:
     weight: 1
     title: Realestate Activities
   
-  pt:
-    languageName: Português
-    languageCode: pt
+  nl:
+    languageName: Dutch
+    languageCode: nl
     languageDirection: ltr
     weight: 3
     title: Realestate Activities

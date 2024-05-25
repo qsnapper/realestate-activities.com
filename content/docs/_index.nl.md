@@ -1,5 +1,5 @@
 ---
-linkTitle: "Serviços"
+linkTitle: "Diensten"
 title: "ReAct - Realestate Activities"
 ---
 

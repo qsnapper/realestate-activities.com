@@ -7,6 +7,8 @@
   },
   "devDependencies": {
     "@tailwindcss/nesting": "^0.0.0-insiders.565cd3e",
+    "@tinacms/cli": "^1.5.45",
+    "@types/node": "^20.12.12",
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.38",
     "postcss-cli": "^11.0.0",
@@ -14,5 +16,8 @@
     "prettier": "^3.2.5",
     "prettier-plugin-go-template": "^0.0.15",
     "tailwindcss": "^3.4.3"
+  },
+  "dependencies": {
+    "tinacms": "^1.6.3"
   }
 }

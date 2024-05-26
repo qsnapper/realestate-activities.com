@@ -17,6 +17,9 @@
   .custom-title {
     color: #990099;
   }
+  .linkcolor {
+    color: #009900;
+  }
   
 
   /* Override color for .custom-title in dark mode */

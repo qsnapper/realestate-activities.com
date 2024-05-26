@@ -1,5 +1,6 @@
 ---
-title: "Blog"
+title: Blog TITLE
+description: Blog DESCRIPTION
 ---
 
 <div style="text-align: center; margin-top: 1em;">

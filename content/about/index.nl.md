@@ -1,7 +1,11 @@
 ---
-title: Over Ons
-description: Wij bieden diensten aan iedereen die geïnteresseerd is in het kopen van onroerend goed in Portugal. Wij kunnen u helpen met advies, vertalingen, vastgoedbeheer en juridische zaken. We bieden ook belastingbijstand en kunnen klanten helpen bij het verkrijgen van een verblijfsvergunning in Portugal.
 translationKey: about
+title: Over Ons
+description: >-
+  Wij bieden diensten aan iedereen die geïnteresseerd is in het kopen van
+  onroerend goed in Portugal. Wij kunnen u helpen met advies, vertalingen,
+  vastgoedbeheer en juridische zaken. We bieden ook belastingbijstand en kunnen
+  klanten helpen bij het verkrijgen van een verblijfsvergunning in Portugal.
 date: 2003-01-15T00:00:00.000Z
 draft: false
 ---
@@ -104,6 +108,7 @@ Niemand is onsterfelijk en als het onvermijdelijke dan gebeurt dan kunnen wij de
 
 Curriculum Vitae:
 
+```
      1948 Geboren te Batavia (Ned. Indië)
 1948-1952 Jeugd in Den-Haag
 1952-1955 Kleuterschool en Lagere school in Zeist
@@ -119,4 +124,5 @@ Curriculum Vitae:
 2001-2010 Directeur Ricola Algarvia Ldª
 2001-2017 Directeur Realestate – Activities
 2010-2016 Werkzaam op zegen naam z.z.p er
-2016-heden Directeur ROBAN Realestate Actividades Unipessoal Ldª  
+2016      Directeur ROBAN Realestate Actividades Unipessoal Ldª
+```

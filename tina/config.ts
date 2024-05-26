@@ -210,7 +210,12 @@ export default defineConfig({
           {
             type: "string",
             name: "description",
-            label: "Enter a description",
+            label: "Description",
+          },
+          {
+            type: "string",
+            name: "translationKey",
+            label: "TranslationKey",
           },
           {
             type: "datetime",
@@ -218,11 +223,25 @@ export default defineConfig({
             label: "Publish Date",
           },
           {
+            type: "datetime",
+            name: "lastmod",
+            label: "Last Modified Date",
+          },
+          {
             type: "boolean",
             name: "draft",
-            label: "Default value is false - Making True will not show the post in UI",
+            label: "Deactivate Post",
           },
-
+          {
+            type: "boolean",
+            name: "toc",
+            label: "Deactivate toc",
+          },
+          {
+            type: "number",
+            name: "weight",
+            label: "Weight",
+          },
           {
             type: "rich-text",
             name: "body",

@@ -1,7 +1,10 @@
 ---
-title: About Us
-description: We offer services to anyone interested in buying property in Portugal. We can help with advice, translations, property management, and legal matters. We also offer tax assistance and can help clients obtain residency in Portugal.
 translationKey: about
+title: About Us
+description: >-
+  We offer services to anyone interested in buying property in Portugal. We can
+  help with advice, translations, property management, and legal matters. We
+  also offer tax assistance and can help clients obtain residency in Portugal.
 date: 2003-01-15T00:00:00.000Z
 draft: false
 ---
@@ -99,6 +102,8 @@ In case interested in promoting your property we will send you a property submis
 Please contact us for quotes in any specific cases or look at our standard price list for certain fixed services.
 
 ### Curriculum Vitae
+
+```
        1948 Born in Batavia (Ned-Indië)
 1948 - 1952 Childhood in The Hague
 1952 - 1955 Kinder garden and Primary school in Zeist
@@ -112,4 +117,5 @@ Please contact us for quotes in any specific cases or look at our standard price
 1982 - 1990 Independent estate agent with company in Portimão
 1990 - 2001 Independent estate agent in individual name in Bensafrim
 2001 - 2008 Director of Ricola Algarvia Med. Imob. Unipessoal Ldª & ReAct
-2009 All of our staff is Multi lingual and besides English we speak Portuguese, German and Dutch.
+2009        All of our staff is Multi lingual and besides English we speak Portuguese, German and Dutch.
+```

@@ -5,11 +5,11 @@ title: "Realestate Activities"
 enableRobotsTXT: true
 enableGitInfo: false
 # enableEmoji: false
-hasCJKLanguage: true
+hasCJKLanguage: false
 
-# services:
-#   googleAnalytics:
-#     ID: G-MEASUREMENT_ID
+services:
+  googleAnalytics:
+   ID: G-MNDQE69X0S
 
 outputs:
   home: [HTML]

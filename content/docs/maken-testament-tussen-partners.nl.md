@@ -9,18 +9,6 @@ toc: true
 weight: 1
 ---
 
-***
-
-title: "Maken testament tussen partners"
-description: "Maken testament tussen partners"
-translationKey:
-date: "2009-06-23T20:55:51.000Z"
-lastmod: "2018-01-22T07:12:56.000Z"
-draft: false
-toc: true
-weight: 1
----------
-
 Het kopen van een huis in Portugal is natuurlijk een heugelijk feit en hopelijk heeft U daar vele jaren plezier van.
 
 Echter ook aan alle goede zaken van het leven komt eens een einde, want helaas zijn wij niet onsterfelijk. Het is natuurlijk niet de allereerste gedachte om daar al aan te denken als je net hebt gekocht, maar toch.

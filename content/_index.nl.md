@@ -1,47 +1,53 @@
 ---
-title: Hextra Theme
+title: ReAct - Realestate Activities
+translationKey: home
 layout: hextra-home
 ---
 
+
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  Build modern websites&nbsp;<br class="sm:hx-block hx-hidden" />with Markdown and Hugo
+  ReAct - Realestate Activities
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  Fast, batteries-included Hugo theme&nbsp;<br class="sm:hx-block hx-hidden" />for creating beautiful static websites
+  Wij kunnen u helpen met advies, vertalingen, vastgoedbeheer en juridische zaken. &nbsp;<br class="sm:hx-block hx-hidden" />We bieden ook fiscale bijstand en kunnen klanten helpen bij het verkrijgen van een verblijfsvergunning in Portugal.
 {{< /hextra/hero-subtitle >}}
 </div>
 
 <div class="hx-mb-6">
-{{< hextra/hero-button text="Get Started" link="docs" >}}
+{{< hextra/hero-button text="Onze diensten" link="nl/docs" >}}
 </div>
 
 <div class="hx-mt-6"></div>
 
 {{< hextra/feature-grid >}}
   
-  {{< hextra/feature-card
-    title="Lightweight as a Feather"
-    subtitle="No dependency or Node.js is needed to use Hextra. Powered by Hugo, one of *the fastest* static site generators, building your site in just seconds with a single binary."
-  >}}
-  {{< hextra/feature-card
-    title="Responsive with Dark Mode Included"
-    subtitle="Looks great on different screen sizes. Built-in dark mode support, with auto-switching based on user's system preference."
-  >}}
-  {{< hextra/feature-card
-    title="Build and Host for Free"
-    subtitle="Build with GitHub Actions, and host for free on GitHub Pages. Alternatively it can be hosted on any static hosting service."
-  >}}
-  {{< hextra/feature-card
-    title="Multi-Language Made Easy"
-    subtitle="Create multi-language pages by just adding locales suffix to the Markdown file. Adding i18n support to your site is intuitive."
-  >}}
-  {{< hextra/feature-card
-    title="And Much More..."
-    icon="sparkles"
-    subtitle="Syntax highlighting / Table of contents / SEO / RSS / LaTeX / Mermaid / Customizable / and more..."
-  >}}
+    {{< hextra/feature-card
+        title="Consultancy"
+        subtitle="SGoed onafhankelijk advies is essentieel voor het kopen van onroerend goed in het buitenland, met name in Portugal. Wij bieden persoonlijke gesprekken om u te begeleiden bij aan- of verkoopprocessen en uw vragen te beantwoorden."
+    >}}
+
+    {{< hextra/feature-card
+        title="Waarderingen"
+        subtitle="Wij verzorgen onafhankelijke taxaties voor de aan- of verkoop van onroerend goed, rechtszaken of echtscheidingen. Twijfelt u over de prijs van een woning? Onze professionele service kan u helpen met nauwkeurige en betrouwbare taxaties."
+    >}}
+
+    {{< hextra/feature-card
+        title="Fiscale vertegenwoordiging"
+        subtitle="Eigenaren van onroerend goed of bankrekeningen in Portugal hebben officiële fiscale vertegenwoordiging nodig volgens de wet. Wij vertegenwoordigen particulieren en bedrijven, zorgen voor naleving en beschermen hun belangen bij de Portugese autoriteiten."
+    >}}
+
+    {{< hextra/feature-card
+        title="Belastingaangiften"
+        subtitle="Ingezetenen en eigenaren van onroerend goed in Portugal moeten jaarlijks belastingaangifte doen voor huurinkomsten. Wij behandelen deze complexe zaken en zorgen ervoor dat de lokale regelgeving voor wereldwijde inkomensaangiften wordt nageleefd."
+    >}}
+
+    {{< hextra/feature-card
+        title="En nog veel meer..."
+        icon="sparkles"
+        subtitle="Projectmanagement, hypotheken, vertegenwoordiging, vertegenwoordiging en meer..."
+    >}}
 {{< /hextra/feature-grid >}}

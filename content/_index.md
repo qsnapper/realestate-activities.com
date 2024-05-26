@@ -1,48 +1,52 @@
 ---
-title: Hextra Theme
+title: ReAct - Realestate Activities
+translationKey: home
 layout: hextra-home
 ---
 
-
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  Build modern websites&nbsp;<br class="sm:hx-block hx-hidden" />with Markdown and Hugo
+  ReAct - Realestate Activities
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  Fast, batteries-included Hugo theme&nbsp;<br class="sm:hx-block hx-hidden" />for creating beautiful static websites
+  We can help with advice, translations, property management, and legal matters. &nbsp;<br class="sm:hx-block hx-hidden" />We also offer tax assistance and can help clients obtain residency in Portugal.
 {{< /hextra/hero-subtitle >}}
 </div>
 
 <div class="hx-mb-6">
-{{< hextra/hero-button text="Get Started" link="docs" >}}
+{{< hextra/hero-button text="Our Services" link="docs" >}}
 </div>
 
 <div class="hx-mt-6"></div>
 
 {{< hextra/feature-grid >}}
   
-  {{< hextra/feature-card
-    title="Lightweight as a Feather"
-    subtitle="No dependency or Node.js is needed to use Hextra. Powered by Hugo, one of *the fastest* static site generators, building your site in just seconds with a single binary."
-  >}}
-  {{< hextra/feature-card
-    title="Responsive with Dark Mode Included"
-    subtitle="Looks great on different screen sizes. Built-in dark mode support, with auto-switching based on user's system preference."
-  >}}
-  {{< hextra/feature-card
-    title="Build and Host for Free"
-    subtitle="Build with GitHub Actions, and host for free on GitHub Pages. Alternatively it can be hosted on any static hosting service."
-  >}}
-  {{< hextra/feature-card
-    title="Multi-Language Made Easy"
-    subtitle="Create multi-language pages by just adding locales suffix to the Markdown file. Adding i18n support to your site is intuitive."
-  >}}
-  {{< hextra/feature-card
-    title="And Much More..."
-    icon="sparkles"
-    subtitle="Syntax highlighting / Table of contents / SEO / RSS / LaTeX / Mermaid / Customizable / and more..."
-  >}}
+    {{< hextra/feature-card
+        title="Consultancy"
+        subtitle="Sound independent advice is essential for buying property abroad, especially in Portugal. We offer personal meetings to guide you through purchasing or selling processes and answer your questions."
+    >}}
+
+    {{< hextra/feature-card
+        title="Valuations"
+        subtitle="We provide independent valuations for buying or selling property, court cases, or divorces. Unsure about the price of a property? Our professional service can assist with accurate and reliable valuations."
+    >}}
+
+    {{< hextra/feature-card
+        title="Fiscal Representation"
+        subtitle="Property or bank account owners in Portugal need official fiscal representation by law. We represent individuals and companies, ensuring compliance and protecting their interests with Portuguese authorities."
+    >}}
+
+    {{< hextra/feature-card
+        title="Tax Returns"
+        subtitle="Residents and property owners in Portugal must submit annual tax returns for rental income. We handle these complex matters, ensuring compliance with local regulations for worldwide income declarations."
+    >}}
+
+    {{< hextra/feature-card
+        title="And Much More..."
+        icon="sparkles"
+        subtitle="Project Management, Mortgages, Representation, Representation, and more..."
+    >}}
 {{< /hextra/feature-grid >}}

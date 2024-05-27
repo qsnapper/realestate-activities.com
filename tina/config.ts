@@ -153,8 +153,8 @@ export default defineConfig({
             name: "date",
             label: "Publish Date",
             ui: {
-              dateFormat: 'YYYY-MM-DD', // Customize the date format as needed
-              format: () => new Date().toISOString().split('T')[0], // Set default value to today's date
+              dateFormat: 'MMM DD, YYYY', // Customize the date format as needed
+              format: () => new Date().toLocaleDateString('en-US', { month: 'short', day: '2-digit', year: 'numeric' }), // Set default value to today's date in the specified format
             },
           },
 
@@ -249,6 +249,10 @@ export default defineConfig({
             type: "datetime",
             name: "date",
             label: "Publish Date",
+            ui: {
+              dateFormat: 'MMM DD, YYYY', // Customize the date format as needed
+              format: () => new Date().toLocaleDateString('en-US', { month: 'short', day: '2-digit', year: 'numeric' }), // Set default value to today's date in the specified format
+            },
           },
           {
             type: "datetime",

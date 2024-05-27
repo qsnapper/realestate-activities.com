@@ -28,7 +28,7 @@
       {{ end -}}
       <span>{{ $title }}</span>
     </h3>
-    <p class="hx-text-gray-500 dark:hx-text-gray-400 hx-text-sm hx-leading-6">{{ $subtitle | markdownify }}</p>
+    <p class="hometext dark:hx-text-gray-400 hx-text-sm hx-leading-6">{{ $subtitle | markdownify }}</p>
   </div>
   {{- with $image -}}
     <img src="{{ . }}" class="hx-absolute hx-max-w-none {{ $imageClass }}" alt="{{ $title }}" />

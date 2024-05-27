@@ -20,7 +20,9 @@
   .linkcolor {
     color: #009900;
   }
-  
+  .hometext {
+    color: #6b7280
+  }
 
   /* Override color for .custom-title in dark mode */
   :where(.custom-title):is(html[class~="dark"] *) {

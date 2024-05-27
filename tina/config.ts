@@ -134,6 +134,14 @@ export default defineConfig({
             create: true,
             delete: true,
           },
+          filename: {
+            slugify: (values) => {
+              // Generate filename based on title field, converting to lowercase and replacing spaces with dashes
+              const title = values.title || "untitled";
+              return title.toLowerCase().replace(/\s+/g, "-");
+            },
+        },
+       
         },
         fields: [
           {
@@ -226,6 +234,13 @@ export default defineConfig({
             create: true,
             delete: true,
           },
+          filename: {
+            slugify: (values) => {
+              // Generate filename based on title field, converting to lowercase and replacing spaces with dashes
+              const title = values.title || "untitled";
+              return title.toLowerCase().replace(/\s+/g, "-");
+            },
+        },
         },
         fields: [
           {

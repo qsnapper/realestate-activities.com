@@ -52,8 +52,18 @@ export default defineConfig({
           },
           {
             type: "string",
+            name: "description",
+            label: "Description",
+          },
+          {
+            type: "string",
+            name: "translationKey",
+            label: "TranslationKey",
+          },
+          {
+            type: "string",
             name: "layout",
-            label: "Default value - Do not change",
+            label: "layout",
           },
           {
             type: "rich-text",

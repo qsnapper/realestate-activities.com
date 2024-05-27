@@ -1017,7 +1017,7 @@ video {
 }
 .hx-bg-primary-100 {
   --tw-bg-opacity: 1;
-  background-color: #009900;
+  background-color: hsl(var(--primary-hue) var(--primary-saturation) 94% / var(--tw-bg-opacity));;
 }
 .hx-bg-primary-400 {
   --tw-bg-opacity: 1;

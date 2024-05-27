@@ -1017,18 +1017,18 @@ video {
 }
 .hx-bg-primary-100 {
   --tw-bg-opacity: 1;
-  background-color: hsl(var(--primary-hue) var(--primary-saturation) 94% / var(--tw-bg-opacity));
+  background-color: #009900;
 }
 .hx-bg-primary-400 {
   --tw-bg-opacity: 1;
-  background-color: hsl(var(--primary-hue) var(--primary-saturation) 66% / var(--tw-bg-opacity));
+  background-color: #009900;
 }
 .hx-bg-primary-600 {
   --tw-bg-opacity: 1;
-  background-color: hsl(var(--primary-hue) var(--primary-saturation) 45% / var(--tw-bg-opacity));
+  background-color: #009900;
 }
 .hx-bg-primary-700\/5 {
-  background-color: hsl(var(--primary-hue) var(--primary-saturation) 39% / 0.05);
+  background-color: #009900;
 }
 .hx-bg-red-100 {
   --tw-bg-opacity: 1;
@@ -2703,11 +2703,11 @@ body:is(html[class~="dark"] *) {
 }
 .hover\:hx-bg-primary-50:hover {
   --tw-bg-opacity: 1;
-  background-color: hsl(var(--primary-hue) var(--primary-saturation) 97% / var(--tw-bg-opacity));
+  background-color: #009900;
 }
 .hover\:hx-bg-primary-700:hover {
   --tw-bg-opacity: 1;
-  background-color: hsl(var(--primary-hue) var(--primary-saturation) 39% / var(--tw-bg-opacity));
+  background-color: #009900;
 }
 .hover\:hx-bg-slate-50:hover {
   --tw-bg-opacity: 1;
@@ -2967,14 +2967,14 @@ body:is(html[class~="dark"] *) {
   background-color: rgb(251 146 60 / 0.2);
 }
 .dark\:hx-bg-primary-300\/10:is(html[class~="dark"] *) {
-  background-color: hsl(var(--primary-hue) var(--primary-saturation) 77% / 0.1);
+  background-color: #009900;
 }
 .dark\:hx-bg-primary-400\/10:is(html[class~="dark"] *) {
-  background-color: hsl(var(--primary-hue) var(--primary-saturation) 66% / 0.1);
+  background-color: #009900;
 }
 .dark\:hx-bg-primary-600:is(html[class~="dark"] *) {
   --tw-bg-opacity: 1;
-  background-color: hsl(var(--primary-hue) var(--primary-saturation) 45% / var(--tw-bg-opacity));
+  background-color: #009900;
 }
 .dark\:hx-bg-red-900\/30:is(html[class~="dark"] *) {
   background-color: rgb(127 29 29 / 0.3);
@@ -3121,10 +3121,10 @@ body:is(html[class~="dark"] *) {
 }
 .dark\:hover\:hx-bg-primary-700:hover:is(html[class~="dark"] *) {
   --tw-bg-opacity: 1;
-  background-color: hsl(var(--primary-hue) var(--primary-saturation) 39% / var(--tw-bg-opacity));
+  background-color: #009900;
 }
 .hover\:dark\:hx-bg-primary-500\/10:is(html[class~="dark"] *):hover {
-  background-color: hsl(var(--primary-hue) var(--primary-saturation) 50% / 0.1);
+  background-color: #009900;
 }
 .dark\:hover\:hx-text-gray-100:hover:is(html[class~="dark"] *) {
   --tw-text-opacity: 1;

@@ -146,7 +146,7 @@ export default defineConfig({
           {
             type: "string",
             name: "description",
-            label: "Enter a description",
+            label: "Description",
           },
           {
             type: "datetime",
@@ -180,6 +180,10 @@ export default defineConfig({
 
 
             ],
+            itemProps: (item) => ({
+              label: item.name, // Use the question as the display label
+            }),
+          
           },
           {
             type: 'string',
@@ -190,7 +194,12 @@ export default defineConfig({
           {
             type: "boolean",
             name: "draft",
-            label: "Default value is false - Making True will not show the post in UI",
+            label: "Deactivate Post",
+          },
+          {
+            type: "boolean",
+            name: "excludeSearch",
+            label: "Exclude from search",
           },
 
           {

@@ -152,6 +152,10 @@ export default defineConfig({
             type: "datetime",
             name: "date",
             label: "Publish Date",
+            ui: {
+              dateFormat: 'YYYY-MM-DD', // Customize the date format as needed
+              format: () => new Date().toISOString().split('T')[0], // Set default value to today's date
+            },
           },
 
           // object

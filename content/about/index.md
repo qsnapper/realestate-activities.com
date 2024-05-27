@@ -6,6 +6,7 @@ description: >-
   help with advice, translations, property management, and legal matters. We
   also offer tax assistance and can help clients obtain residency in Portugal.
 date: 2003-01-15T00:00:00.000Z
+toc: false
 draft: false
 ---
 

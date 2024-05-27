@@ -96,12 +96,17 @@ export default defineConfig({
           {
             type: "string",
             name: "description",
-            label: "Enter a description",
+            label: "Description",
           },
           {
             type: "datetime",
             name: "date",
             label: "Publish Date",
+          },
+          {
+            type: "boolean",
+            name: "toc",
+            label: "Show TOC?",
           },
           {
             type: "boolean",

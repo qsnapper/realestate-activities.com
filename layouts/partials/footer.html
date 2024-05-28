@@ -3,14 +3,14 @@
 
 {{- $copyright := (T "copyright") | default "© 2024 Hextra." -}}
 {{- $poweredBy := (T "poweredBy") | default "Powered by Hextra" -}}
-
-{{- $companyName := .Site.Params.footerCompanyName | default "ROBAN Realestate Ldª t.a.v. Robert M.L. Snapper" -}}
-{{- $address := .Site.Params.footerAddress | default "Rua Dr. Paulo J. Godinho Lote 5 – Loja C 8600-774 Lagos" -}}
-{{- $contactInfo1 := .Site.Params.footerContactInfo1 | default "Tel: +351 282 768 821" -}}
-{{- $contactInfo2 := .Site.Params.footerContactInfo2 | default "Fax: +351 282 768 827" -}}
-{{- $contactInfo3 := .Site.Params.footerContactInfo3 | default "Mobile: +351 917 566 931" -}}
-{{- $email := .Site.Params.footerEmail | default "E-Mail: rs@realestate-activities.com" -}}
-{{- $url := .Site.Params.footerUrl | default "URL: http://www.realestate-activities.com" -}}
+{{- $footerData := .Site.Data.footer -}}
+{{- $companyName := $footerData.companyName | default "" -}}
+{{- $address := $footerData.address | default "" -}}
+{{- $contactInfo1 := $footerData.contactInfo1 | default "" -}}
+{{- $contactInfo2 := $footerData.contactInfo2 | default "" -}}
+{{- $contactInfo3 := $footerData.contactInfo3 | default "" -}}
+{{- $email := $footerData.email | default "" -}}
+{{- $url := $footerData.url | default "" -}}
 
 
 {{- $footerWidth := "hx-max-w-screen-xl" -}}
@@ -40,12 +40,12 @@
       
       <div class="hx-font-semibold">{{ $companyName }}</div>
       <div class="hx-text-sm">{{ $address }}</div>
-      <div class="hx-text-sm">{{ $contactInfo1 }}</div>
-      <div class="hx-text-sm">{{ $contactInfo2 }}</div>
-      <div class="hx-text-sm">{{ $contactInfo3 }}</div>
-      <div class="hx-text-sm hx-font-semibold"> <a href="mailto:{{ $email }}">{{ $email }}</a></div>
+      <div class="hx-text-sm">Tel: {{ $contactInfo1 }}</div>
+      <div class="hx-text-sm">Fax: {{ $contactInfo2 }}</div>
+      <div class="hx-text-sm">Mobile: {{ $contactInfo3 }}</div>
+      <div class="hx-text-sm hx-font-semibold"> <a href="mailto:{{ $email }}">E-Mail: {{ $email }}</a></div>
       <div class="hx-text-sm hx-font-semibold">
-        <a href="http://www.realestate-activities.com" target="_blank" >{{ $url }}</a>
+        <a href="http://www.realestate-activities.com" target="_blank" >URL: {{ $url }}</a>
       </div>
       {{- if (.Site.Params.footer.displayPoweredBy | default true) }}<div class="hx-mt-4 hx-font-semibold">{{ template "theme-credit" $poweredBy }}</div>{{ end }}
       {{- if .Site.Params.footer.displayCopyright }}<div class="hx-text-sm">{{ $copyright | markdownify }}</div>{{ end }}

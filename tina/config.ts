@@ -308,6 +308,67 @@ export default defineConfig({
           },
         ],
       },
+
+      // Footer 
+
+      // Footer data collection
+      {
+
+        format: "yaml",
+        name: "footer",
+        label: "Footer",
+        path: "data",
+        match: {
+          include: "**footer*",
+        },
+        fields: [
+          {
+            type: "string",
+            name: "companyName",
+            label: "Company Name",
+          },
+          {
+            type: "string",
+            name: "address",
+            label: "Address",
+          },
+          {
+            type: "string",
+            name: "contactInfo1",
+            label: "Tel",
+          },
+          {
+            type: "string",
+            name: "contactInfo2",
+            label: "Fax",
+          },
+          {
+            type: "string",
+            name: "contactInfo3",
+            label: "Mobile",
+          },
+          {
+            type: "string",
+            name: "email",
+            label: "Email",
+          },
+          {
+            type: "string",
+            name: "url",
+            label: "URL",
+          },
+          {
+            type: "string",
+            name: "copyright",
+            label: "Copyright",
+          },
+          {
+            type: "string",
+            name: "poweredBy",
+            label: "Poweredby",
+          },
+        ],
+      },
       
     ],
   },

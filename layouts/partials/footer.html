@@ -1,8 +1,7 @@
 {{- $enableFooterSwitches := .Scratch.Get "enableFooterSwitches" | default false -}}
 {{- $displayThemeToggle := site.Params.theme.displayToggle | default true -}}
 
-{{- $copyright := (T "copyright") | default "© 2024 Hextra." -}}
-{{- $poweredBy := (T "poweredBy") | default "Powered by Hextra" -}}
+
 {{- $footerData := .Site.Data.footer -}}
 {{- $companyName := $footerData.companyName | default "" -}}
 {{- $address := $footerData.address | default "" -}}
@@ -11,6 +10,8 @@
 {{- $contactInfo3 := $footerData.contactInfo3 | default "" -}}
 {{- $email := $footerData.email | default "" -}}
 {{- $url := $footerData.url | default "" -}}
+{{- $copyright := $footerData.copyright | default "" -}}
+{{- $poweredBy := $footerData.poweredBy | default "" -}}
 
 
 {{- $footerWidth := "hx-max-w-screen-xl" -}}
@@ -47,8 +48,8 @@
       <div class="hx-text-sm hx-font-semibold">
         <a href="http://www.realestate-activities.com" target="_blank" >URL: {{ $url }}</a>
       </div>
-      {{- if (.Site.Params.footer.displayPoweredBy | default true) }}<div class="hx-mt-4 hx-font-semibold">{{ template "theme-credit" $poweredBy }}</div>{{ end }}
-      {{- if .Site.Params.footer.displayCopyright }}<div class="hx-text-sm">{{ $copyright | markdownify }}</div>{{ end }}
+      {{- if (.Site.Params.footer.displayCopyright | default true) }}<div class="hx-mt-4 hx-font-semibold">{{ template "theme-credit" $copyright }}</div>{{ end }}
+      {{- if .Site.Params.footer.displayPoweredBy }}<div class="hx-text-sm">{{ $poweredBy | markdownify }}</div>{{ end }}
     </div>
   </div>
 </footer>

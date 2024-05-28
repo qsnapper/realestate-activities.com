@@ -26,6 +26,8 @@ export default defineConfig({
     },
   },
   // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
+  
+
   schema: {
     collections: [
 
@@ -49,11 +51,13 @@ export default defineConfig({
             type: "string",
             name: "title",
             label: "Title",
+            searchable: true,
           },
           {
             type: "string",
             name: "description",
             label: "Description",
+            searchable: true,
           },
           {
             type: "string",
@@ -92,11 +96,13 @@ export default defineConfig({
             label: "Title",
             isTitle: true,
             required: true,
+            searchable: true,
           },
           {
             type: "string",
             name: "description",
             label: "Description",
+            searchable: true,
           },
           {
             type: "datetime",
@@ -150,11 +156,13 @@ export default defineConfig({
             label: "Title",
             isTitle: true,
             required: true,
+            searchable: true,
           },
           {
             type: "string",
             name: "description",
             label: "Description",
+            searchable: true,
           },
           {
             type: "datetime",
@@ -249,11 +257,13 @@ export default defineConfig({
             label: "Title",
             isTitle: true,
             required: true,
+            searchable: true,
           },
           {
             type: "string",
             name: "description",
             label: "Description",
+            searchable: true, 
           },
           {
             type: "string",
@@ -283,6 +293,7 @@ export default defineConfig({
             type: "boolean",
             name: "toc",
             label: "Deactivate toc",
+            
           },
           {
             type: "number",
@@ -299,5 +310,14 @@ export default defineConfig({
       },
       
     ],
+  },
+
+  search: {
+    tina: {
+      indexerToken: process.env.TINA_SEARCH_INDEXER_TOKEN, // Add your search token here
+      stopwordLanguages: ['eng'],
+    },
+    indexBatchSize: 100,
+    maxSearchIndexFieldLength: 100,
   },
 });

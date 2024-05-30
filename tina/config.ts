@@ -79,7 +79,7 @@ export default defineConfig({
       },
 
       {
-        name: "home1",
+        name: "homenl",
         label: "Home Page [NL]",
         path: "content/",
         ui: {
@@ -123,16 +123,19 @@ export default defineConfig({
         ],
       },
 
-      // About Page
+      // About Page EN
       {
         name: "about",
-        label: "About Page",
+        label: "About Page [EN]",
         path: "content/about",
         ui: {
           allowedActions: {
             create: false,
             delete: false,
           },
+        },
+        match: {
+          exclude: "index*nl*",
         },
         fields: [
           {
@@ -162,7 +165,7 @@ export default defineConfig({
           {
             type: "boolean",
             name: "draft",
-            label: "Default value is false - Making True will not show the post in UI",
+            label: "Deactivate Post",
           },
 
           {
@@ -174,6 +177,59 @@ export default defineConfig({
         ],
       },
 
+      // About Page NL
+      {
+        name: "aboutnl",
+        label: "About Page [NL]",
+        path: "content/about",
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+        },
+        match: {
+          include: "index*nl*",
+        },
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+            isTitle: true,
+            required: true,
+            searchable: true,
+          },
+          {
+            type: "string",
+            name: "description",
+            label: "Description",
+            searchable: true,
+          },
+          {
+            type: "datetime",
+            name: "date",
+            label: "Publish Date",
+          },
+          {
+            type: "boolean",
+            name: "toc",
+            label: "Show TOC?",
+          },
+          {
+            type: "boolean",
+            name: "draft",
+            label: "Deactivate Post",
+          },
+
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+        ],
+      },
       // Blog pages
 
       {

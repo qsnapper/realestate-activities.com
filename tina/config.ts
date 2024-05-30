@@ -26,7 +26,7 @@ export default defineConfig({
     },
   },
   // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
-  
+
 
   schema: {
     collections: [
@@ -230,25 +230,31 @@ export default defineConfig({
           },
         ],
       },
-      // Blog pages
+      // Blog pages EN
 
       {
         name: "blog",
-        label: "Blog Page",
+        label: "Blog Page [EN]",
         path: "content/blog",
         ui: {
           allowedActions: {
             create: true,
             delete: true,
           },
+
           filename: {
             slugify: (values) => {
               // Generate filename based on title field, converting to lowercase and replacing spaces with dashes
               const title = values.title || "untitled";
               return title.toLowerCase().replace(/\s+/g, "-");
             },
+          },
+
+          
+
         },
-       
+        match: {
+          exclude: "*nl*",
         },
         fields: [
           {
@@ -304,7 +310,7 @@ export default defineConfig({
             itemProps: (item) => ({
               label: item.name, // Use the question as the display label
             }),
-          
+
           },
           {
             type: 'string',
@@ -332,6 +338,110 @@ export default defineConfig({
         ],
       },
 
+      // Blog pages NL 
+
+      {
+        name: "blognl",
+        label: "Blog Page [NL]",
+        path: "content/blog",
+        ui: {
+          allowedActions: {
+            create: true,
+            delete: true,
+          },
+          filename: {
+            slugify: (values) => {
+              // Generate filename based on title field, converting to lowercase and replacing spaces with dashes
+              const title = values.title || "untitled";
+              return title.toLowerCase().replace(/\s+/g, "-");
+            },
+          },
+
+        },
+        match: {
+          include: "*nl*",
+        },
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+            isTitle: true,
+            required: true,
+            searchable: true,
+          },
+          {
+            type: "string",
+            name: "description",
+            label: "Description",
+            searchable: true,
+          },
+          {
+            type: "datetime",
+            name: "date",
+            label: "Publish Date",
+            ui: {
+              dateFormat: 'MMM DD, YYYY', // Customize the date format as needed
+              format: () => new Date().toLocaleDateString('en-US', { month: 'short', day: '2-digit', year: 'numeric' }), // Set default value to today's date in the specified format
+            },
+          },
+
+          // object
+
+          {
+            type: "object",
+            name: "authors",
+            label: "Authors",
+            list: true,
+            fields: [
+              {
+                type: 'string',
+                name: 'name',
+                label: 'Name'
+              },
+              {
+                type: 'string',
+                name: 'link',
+                label: 'Link',
+              },
+              {
+                type: 'image',
+                name: 'image',
+                label: 'Image',
+              },
+
+
+            ],
+            itemProps: (item) => ({
+              label: item.name, // Use the question as the display label
+            }),
+
+          },
+          {
+            type: 'string',
+            name: 'tags',
+            label: 'Tags',
+            list: true,
+          },
+          {
+            type: "boolean",
+            name: "draft",
+            label: "Deactivate Post",
+          },
+          {
+            type: "boolean",
+            name: "excludeSearch",
+            label: "Exclude from search",
+          },
+
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+        ],
+      },
       // Services Page
 
       {
@@ -349,7 +459,7 @@ export default defineConfig({
               const title = values.title || "untitled";
               return title.toLowerCase().replace(/\s+/g, "-");
             },
-        },
+          },
         },
         fields: [
           {
@@ -364,7 +474,7 @@ export default defineConfig({
             type: "string",
             name: "description",
             label: "Description",
-            searchable: true, 
+            searchable: true,
           },
           {
             type: "string",
@@ -394,7 +504,7 @@ export default defineConfig({
             type: "boolean",
             name: "toc",
             label: "Deactivate toc",
-            
+
           },
           {
             type: "number",
@@ -470,7 +580,7 @@ export default defineConfig({
           },
         ],
       },
-      
+
     ],
   },
 

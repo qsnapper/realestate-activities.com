@@ -353,7 +353,8 @@ export default defineConfig({
             slugify: (values) => {
               // Generate filename based on title field, converting to lowercase and replacing spaces with dashes
               const title = values.title || "untitled";
-              return title.toLowerCase().replace(/\s+/g, "-");
+              const filenameSuffix = ".nl";
+              return `${title.toLowerCase().replace(/\s+/g, "-")}${filenameSuffix}`;
             },
           },
 
@@ -538,7 +539,8 @@ export default defineConfig({
             slugify: (values) => {
               // Generate filename based on title field, converting to lowercase and replacing spaces with dashes
               const title = values.title || "untitled";
-              return title.toLowerCase().replace(/\s+/g, "-");
+              const filenameSuffix = ".nl";
+              return `${title.toLowerCase().replace(/\s+/g, "-")}${filenameSuffix}`;
             },
           },
         },

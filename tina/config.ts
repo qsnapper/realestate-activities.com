@@ -442,11 +442,11 @@ export default defineConfig({
           },
         ],
       },
-      // Services Page
+      // Services Page EN
 
       {
         name: "docs",
-        label: "Services Page",
+        label: "Services Page [EN]",
         path: "content/docs",
         ui: {
           allowedActions: {
@@ -460,6 +460,90 @@ export default defineConfig({
               return title.toLowerCase().replace(/\s+/g, "-");
             },
           },
+        },
+        match: {
+          exclude: "*nl*",
+        },
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+            isTitle: true,
+            required: true,
+            searchable: true,
+          },
+          {
+            type: "string",
+            name: "description",
+            label: "Description",
+            searchable: true,
+          },
+          {
+            type: "string",
+            name: "translationKey",
+            label: "TranslationKey",
+          },
+          {
+            type: "datetime",
+            name: "date",
+            label: "Publish Date",
+            ui: {
+              dateFormat: 'MMM DD, YYYY', // Customize the date format as needed
+              format: () => new Date().toLocaleDateString('en-US', { month: 'short', day: '2-digit', year: 'numeric' }), // Set default value to today's date in the specified format
+            },
+          },
+          {
+            type: "datetime",
+            name: "lastmod",
+            label: "Last Modified Date",
+          },
+          {
+            type: "boolean",
+            name: "draft",
+            label: "Deactivate Post",
+          },
+          {
+            type: "boolean",
+            name: "toc",
+            label: "Deactivate toc",
+
+          },
+          {
+            type: "number",
+            name: "weight",
+            label: "Weight",
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+        ],
+      },
+
+      // Services page NL
+
+      {
+        name: "docsnl",
+        label: "Services Page [NL]",
+        path: "content/docs",
+        ui: {
+          allowedActions: {
+            create: true,
+            delete: true,
+          },
+          filename: {
+            slugify: (values) => {
+              // Generate filename based on title field, converting to lowercase and replacing spaces with dashes
+              const title = values.title || "untitled";
+              return title.toLowerCase().replace(/\s+/g, "-");
+            },
+          },
+        },
+        match: {
+          include: "*nl*",
         },
         fields: [
           {

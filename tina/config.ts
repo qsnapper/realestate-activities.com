@@ -35,7 +35,7 @@ export default defineConfig({
 
       {
         name: "home",
-        label: "Home Page",
+        label: "Home Page [EN]",
         path: "content/",
         ui: {
           allowedActions: {
@@ -44,7 +44,52 @@ export default defineConfig({
           },
         },
         match: {
-          include: "**_index*",
+          include: "**_index*en*"
+        },
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+            searchable: true,
+          },
+          {
+            type: "string",
+            name: "description",
+            label: "Description",
+            searchable: true,
+          },
+          {
+            type: "string",
+            name: "translationKey",
+            label: "TranslationKey",
+          },
+          {
+            type: "string",
+            name: "layout",
+            label: "layout",
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+        ],
+      },
+
+      {
+        name: "home1",
+        label: "Home Page [NL]",
+        path: "content/",
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+        },
+        match: {
+          include: "**_index*nl*",
         },
         fields: [
           {

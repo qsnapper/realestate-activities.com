@@ -1,5 +1,4 @@
-import { defineConfig } from "tinacms";
-
+import { defineConfig, tinaTableTemplate } from "tinacms";
 // Your hosting provider likely exposes this as an environment variable
 const branch =
   process.env.GITHUB_BRANCH ||
@@ -173,6 +172,9 @@ export default defineConfig({
             name: "body",
             label: "Body",
             isBody: true,
+            templates: [
+              tinaTableTemplate,
+            ],
           },
         ],
       },
@@ -520,6 +522,9 @@ export default defineConfig({
             name: "body",
             label: "Body",
             isBody: true,
+            templates: [
+              tinaTableTemplate,
+            ],
           },
         ],
       },

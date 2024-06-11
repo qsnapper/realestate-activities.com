@@ -1,6 +1,7 @@
 # 301 redirects for old to new URLs. Used by Netlify
-/default_1_48		/docs/about-us/
-/default_28_51		/docs/about-us/
+/default.asp    /
+/default_1_48		/about/
+/default_28_51		/about/
 /default_1_113		/docs/marketing-of-your-property/
 /default_1_71		/docs/information/
 /default_1_72		/docs/property-consultant/
@@ -25,7 +26,7 @@
 /default_1_104		/docs/application-license-hydric-resources/
 /default_1_114		/docs/marketing-of-your-property/
 /default_1_82		/docs/price-list/
-/default_29_53		/nl/docs/over-ons/
+/default_29_53		/nl/about/
 /default_40_54		/nl/docs/realestate-activities/
 /default_40_83		/nl/docs/informatie/
 /default_40_84		/nl/docs/onroerend-goed-adviseur/

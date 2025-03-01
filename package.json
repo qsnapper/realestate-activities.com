@@ -19,6 +19,6 @@
   },
   "dependencies": {
     "@tinacms/search": "^1.0.19",
-    "tinacms": "^1.6.3"
+    "tinacms": "^1.6.7"
   }
 }

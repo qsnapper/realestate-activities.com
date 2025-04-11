@@ -15,7 +15,7 @@ draft: false
 
 ## Introductie
 
-[www.realestate-activities.com](http://www.realestate-activities.com/) is 1 van de informatieve web sites van Pargo ReAct Ldª.  
+[www.realestate-activities.com](http://www.realestate-activities.com/) is een informatieve web site eigendom van Pargo ReAct Ldª.  
 
 Daarnaast ben ik werkzaam op eigen naam "Robert M.L. Snapper E.N.I."
 

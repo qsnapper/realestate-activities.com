@@ -14,13 +14,13 @@ draft: false
 
 ### Introduction
 
-[www.realestate-activities.com](http://www.realestate-activities.com/) is an informative website owned by Pargo ReAct Ldª. 
+[www.realestate-activities.com](http://www.realestate-activities.com/) is an informative website owned by Pargo ReAct Ldª.
 
 The object of this site is to give you a better insight view of the services we provide.
 
 Let me introduce myself:
 
-My name is Robert M.L. Snapper and I have been in the real-estate business in Portugal since 1982. My last position was Director of “ROBAN Realestate Actividades Ldª" based in Lagos 
+My name is Robert M.L. Snapper and I have been in the real-estate business in Portugal since 1982. My last position was Director of “ROBAN Realestate Actividades Ldª" based in Lagos and still Managing Director of Pargo ReAct Ldª.
 
 Main activity of the company was acting as a realestate agent but we also were involved in many other activities..
 

@@ -39,5 +39,5 @@ My basic fees for carrying out valuations are laid down in the following table.
 
 | **Valuations:**  | **Price:** | **IVA** | **Total incl. IVA** | **Between** | **And** | **Extra p/km.** | **Incl. IVA** |
 | :--------------- | :--------- | :------ | :------------------ | :---------- | :------ | :-------------- | :------------ |
-| Price valuation: | **€ 500**  | **23%** | **€ 615,00**        | 00 km.      | 50 km.  | €00,00          | **€ 00,00**   |
+| Price valuation: | **€ 300**  | **23%** | **€ 615,00**        | 00 km.      | 50 km.  | €00,00          | **€ 00,00**   |
 | Above            |            |         | if applicable       | Over        | 50 km.  | € 1,00          | **€ 1,23**    |

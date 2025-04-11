@@ -15,7 +15,7 @@ draft: false
 
 ## Introductie
 
-[www.realestate-activities.com](http://www.realestate-activities.com/) is 1 van de informatieve web sites van ROBAN Realestate Actividades Unipessoal Ldª. een in 2016 nieuw opgerichte firma. 
+[www.realestate-activities.com](http://www.realestate-activities.com/) is 1 van de informatieve web sites van Pargo ReAct Ldª.  
 
 Daarnaast ben ik werkzaam op eigen naam "Robert M.L. Snapper E.N.I."
 
@@ -25,7 +25,9 @@ Maar het is beter om te kijken op de nieuwe website:  [www.realestate-algarve.i
 
 Na het beëindigen op 31-12-2009 van 27 jaar Makelaars activiteiten via Ricola Algarvia Ldª ben ik altijd actief gebleven als adviseur maar is er in 2021 weer een nieuwe Makelaarsvergunning aangevraagd en verkregen nu onder de naam ROBAN Realestate Actividades Lda mey AMI-19561.
 
-Vanwege het feit dat wij meer dan 40 jaar in Portugal wonen, meertalig zijn (Engels, Portugees, Duits en Nederlands) denk ik dat u mogelijk kunt profiteren van onze “Portugal Experience”.
+Ik besloot echter om op 31-12-2024 mijn actieve Makelaars loopbaan definitief te beeindigen, maar nog wel actief te blijven als adviseur van oude klanten.
+
+Vanwege het feit dat wij meer dan 45 jaar in Portugal wonen, meertalig zijn (Engels, Portugees, Duits en Nederlands) denk ik dat u mogelijk kunt profiteren van onze “Portugal Experience”.
 
 ## Informatie
 

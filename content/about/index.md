@@ -14,15 +14,17 @@ draft: false
 
 ### Introduction
 
-[www.realestate-activities.com](http://www.realestate-activities.com/) is the informative website of  Robert M.L. Snapper E.N.I. ,  previously active as registered and qualified estate agent during a long period of time. 
+[www.realestate-activities.com](http://www.realestate-activities.com/) is an informative website owned by Pargo ReAct Ldª. 
 
 The object of this site is to give you a better insight view of the services we provide.
 
 Let me introduce myself:
 
-My name is Robert M.L. Snapper and I have been in the real-estate business in Portugal since 1982. My last position was Director of “ROBAN Realestate Actividades Ldª" based in Lagos.
+My name is Robert M.L. Snapper and I have been in the real-estate business in Portugal since 1982. My last position was Director of “ROBAN Realestate Actividades Ldª" based in Lagos 
 
-However decided to stop my realestate activities on 31-12-2024 but will continue assisting and advising old clients
+Main activity of the company was acting as a realestate agent but we also were involved in many other activities..
+
+However I decided to stop my realestate activities on 31-12-2024 but I will continue assisting and advising old clients
 
 We have been living and working in Portugal for over 45 years therefore I am convinced that you can take advantage of our “Portugal Experience & Expertise”.
 

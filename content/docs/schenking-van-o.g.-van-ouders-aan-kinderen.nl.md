@@ -54,6 +54,12 @@ Volgend jaar zou dat zijn € 50.000 waarover dan € 16.250 betaald dient te wo
 
 ## Fiscale consequenties in Nederland.
 
+Ondanks het feit dat er geen schenkbelasting is in Portugal, geldt dat niet voor Nederland. Wonen de ontvangers in Nederland dan zullen ze daar aangifte moetem doen van de schenking van hun ouders. Stel er zijn 2 kinderen en de waarde van het o.g. in Portugal is € 200.000 dan zal ieder € 100.000 geschonken krijgen. 
+
+Daar moet in Nederland ongeveer 10% belasting over betaald worden. Afhankelijk van de leeftijd en het verleden kan er een bepaalde vrijstelling zijn. 
+
+Ook bestaat de mogelijkheid dat de ouders de schenkbelasting voor de kinderen betalen..
+
 In principe zal degene die de schenking ontvangt deze in Nederland op moeten geven in Box 3 en daarover vermogensbelasting moeten betalen.
 
 Echter is men de blote eigenaar dan hoeft men geen vermogenswinstbelasting te betalen omdat men hier al I.M.I. / O.Z.B. betaald. (Verdrag ter voorkomning van dubbekle belastingheffing)
@@ -70,12 +76,12 @@ Even een klein overzicht van de te verwachten kosten bij schenking.
 
 Ik ga even uit van een bedrag van € 200.000,00
 
-I.S. (Imposto de Selo) 0,8%                  € 1.600,00
-Notaris/Advocaat kosten                      €   250,00
-Registratiekosten                            €   250,00
-Maken volmachten in Nederland (consulaate)   €   100,00
-Aanvraag van fiscale nummers in Portugal     €   125,00
-\-                                            ----------
-Onze kosten                                  €   250,00
-\-                                            ----------
-Totaal geschatte kosten:                     € 2.575,00
+I.S. (Imposto de Selo) 0,8%                               € 1.600,00
+Notaris/Advocaat kosten                                    €   650,00
+Registratiekosten                                               €   250,00
+Maken volmachten in Nederland (consulaate)   €  100,00
+Aanvraag van fiscale nummers in Portugal        €  125,00
+\-                                                                              ----------
+Onze kosten                                                       € 1.500,00
+\-                                                                              ----------
+Totaal geschatte kosten:                                     € 4.225,00

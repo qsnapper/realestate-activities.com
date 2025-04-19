@@ -28,6 +28,8 @@ However I decided to stop my realestate activities on 31-12-2024 but I will cont
 
 My office is in Lagos in the Urbanisation of Iberlagos, Bloco J - Office 11 - 8600-540 Lagos.
 
+![](</Rob Monchique.jpg>)
+
 ### Information
 
 Without doubt Portugal and in particular the Algarve has a lot to offer to foreigners. The Brits in fact have discovered the area first before the revolution (1974) finding it an ideal place for holiday and particularly permanent living.  With its fine climate the whole year round, it lends itself for many outdoor activities and as many people call it "a better quality of life". However do not let the sun blind you as there is more to it. For that reason I have launched many years ago a free informative web site dealing in depth with many topics which could be of interest to you. For further info see [www.realestate-algarve.info](http://www.realestate-algarve.info/)

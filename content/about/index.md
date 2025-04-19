@@ -6,7 +6,7 @@ description: >-
   help with advice, translations, property management, and legal matters. We
   also offer tax assistance and can help clients obtain residency in Portugal.
 date: 2003-01-15T00:00:00.000Z
-toc: false
+toc: true
 draft: false
 ---
 
@@ -50,7 +50,7 @@ In the past I was involved with the construction of many villa from small to big
 
 ### Property Management
 
-Once the owner of a house or Apartment it is more or less inevitable that you will need somebody to look after your property. Quite often friends will offer to do his for you but using a professional team has additional value. They are here 365 days of the year to assist you. For quite a few clients we took take care or the day to day running of their properties by doing either full management or we provide individual tailor made services. This part of the business has been taken over by 2 old employees, Enid Hut and Caroline Noterman. Their company Pamvillas, [www.pamvillas.com](http://www.pamvillas.com)  is based also in the same building adjacent to my office, and they are at office Nº 10. 
+Once the owner of a house or Apartment it is more or less inevitable that you will need somebody to look after your property. Quite often friends will offer to do his for you but using a professional team has additional value. They are here 365 days of the year to assist you. For quite a few clients we took take care or the day to day running of their properties by doing either full management or we provide individual tailor made services. This part of the business has been taken over by 2 old employees, Enid Hut and Caroline Noterman. Their company Pamvillas, [www.pamvillas.com](http://www.pamvillas.com)  is based also in the same building adjacent to my office, and they are at office Nº 10.
 
 ### Rentals is now done by Pamvillas.
 
@@ -58,7 +58,7 @@ Besides the management of properties we also have a department dealing with rent
 
 ### Mortgages
 
-Might you feel the need to have a mortgage on your property in Portugal we also can advise you on this. We have good contacts with bank and many mortgage lenders. 
+Might you feel the need to have a mortgage on your property in Portugal we also can advise you on this. We have good contacts with bank and many mortgage lenders.
 
 ### Representation
 

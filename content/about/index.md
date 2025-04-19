@@ -102,6 +102,7 @@ Please contact us for quotes in any specific cases or look at our standard price
 1982 - 1990 Independent estate agent with company in Portimão
 1990 - 2001 Independent estate agent in individual name in Bensafrim
 2001 - 2008 Director of Ricola Algarvia Med. Imob. Unipessoal Ldª & ReAct
+2008 - 2016 Working in individual name Robert M.L. Snapper E.N.I.
 2016 - 2025 Director of ROBAN Realestate Actividades Ldª
 2019 - 2025 Director of PARGO ReAct Ldª
 ```

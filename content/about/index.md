@@ -14,21 +14,19 @@ draft: false
 
 ### Introduction
 
-[www.realestate-activities.com](http://www.realestate-activities.com/) is an informative website owned by Pargo ReAct Ldª.
+[www.realestate-activities.com](http://www.realestate-activities.com/) is an informative website owned by Robert M.L. Snapper.
 
-The object of this site is to give you a better insight view of the services we provide.
+The object of this site is to give you a better insight view of the services we can provide.
 
 Let me introduce myself:
 
-My name is Robert M.L. Snapper and I have been in the real-estate business in Portugal since 1982. I am still the Director of “ROBAN Realestate Actividades Ldª" a realesate company trading under the name "REALESTATE ALGARVE" based in Lagos, and I am also the Managing Director of Pargo ReAct Ldª.
+I have been in the real-estate business in Portugal since 1982. I am still the Director of “ROBAN Realestate Actividades Ldª" a realesate company trading under the name "REALESTATE ALGARVE" based in Lagos, and I am also the Managing Director of Pargo ReAct Ldª. an investment company.
 
-Main activity of the company was acting as a realestate agent but we also were involved in many other activities..
+My main activity has  been acting as a realestate agent but we also were involved in many other related activities..
 
-However I decided to stop my realestate activities on 31-12-2024 but I will continue assisting and advising old clients
+However I decided to stop my realestate activities on 31-12-2024 but I will continue assisting and advising old clients on an indivual and personal basis. I have been living and working in Portugal for over 45 years therefore I am convinced that you can take advantage of my “Portugal Experience & Expertise”.
 
-We have been living and working in Portugal for over 45 years therefore I am convinced that you can take advantage of our “Portugal Experience & Expertise”.
-
-Our office is in Lagos in the Urbanisation of Iberlagos, Bloco J - Office 11 - 8600-540 Lagos.
+My office is in Lagos in the Urbanisation of Iberlagos, Bloco J - Office 11 - 8600-540 Lagos.
 
 ### Information
 
@@ -36,7 +34,7 @@ Without doubt Portugal and in particular the Algarve has a lot to offer to forei
 
 ### Consultancy
 
-Buying a property at home is already considered as quite a big step and most likely for many the biggest purchase they ever make in their live.  Furthermore buying a property abroad and in this case Portugal is an even bigger venture. Sound independent advice and information prior to making this step is to my opinion essential to reach a balanced decision. In a personal meeting with me or one of our team members we can in 1 or 2 hours talk you through the process of purchasing or selling and answer your many of the questions you certainly will have.
+Buying a property in your home country is already considered as quite a big step and most likely for many the biggest purchase they ever make in their live.  However buying a property abroad and in this case Portugal is an even bigger venture and challenge. Sound independent advice and information prior to making this step is to my opinion essential to reach a balanced decision. In a personal meeting we can in 1 or 2 hours talk you through the process of purchasing or selling and answer your many of the questions you certainly will have.
 
 ### Conveyance & Documentatoin
 

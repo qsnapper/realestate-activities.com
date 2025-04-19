@@ -6,7 +6,7 @@ description: >-
   help with advice, translations, property management, and legal matters. We
   also offer tax assistance and can help clients obtain residency in Portugal.
 date: 2003-01-15T00:00:00.000Z
-toc: true
+toc: false
 draft: false
 ---
 
@@ -52,11 +52,11 @@ In case you decide to purchase a building plot or an old farm house to convert p
 
 ### Property Management
 
-Once the owner of a house or Apartment it is more or less inevitable that you will need somebody to look after your property. Quite often friends will offer to do his for you but using a professional team has additional value. We are here 365 days of the year to assist you. For quite a few clients we take care or the day to day running of their property by doing either full management or we provide individual tailor made services. This part of the business has been taken over by 2 old employees, Enid Hut and Caroline Noterman. Their company Pamvillas, www\.pamvillas.com  is based alsoin the same building adjacent to my office, and they are at Nº 10. 
+Once the owner of a house or Apartment it is more or less inevitable that you will need somebody to look after your property. Quite often friends will offer to do his for you but using a professional team has additional value. We are here 365 days of the year to assist you. For quite a few clients we take care or the day to day running of their property by doing either full management or we provide individual tailor made services. This part of the business has been taken over by 2 old employees, Enid Hut and Caroline Noterman. Their company Pamvillas, [www.pamvillas.com](http://www.pamvillas.com)  is based alsoin the same building adjacent to my office, and they are at Nº 10.
 
 ### Rentals is now done by Pamvillas.
 
-Besides the management of properties we also have a department dealing with rentals. Portugal is not cheap anymore and to keep a property will cost you a certain amount per month. By letting your property you may be able to have the property free of charge with the possibility to use it whenever it suits you. Popular in UK now of course is “buy to let”. Luckily we now have legislation in place which regulates this all. But please note that you are not allowed to let your property without a proper AL license issued by the local town-council. 
+Besides the management of properties we also have a department dealing with rentals. Portugal is not cheap anymore and to keep a property will cost you a certain amount per month. By letting your property you may be able to have the property free of charge with the possibility to use it whenever it suits you. Popular in UK now of course is “buy to let”. Luckily we now have legislation in place which regulates this all. But please note that you are not allowed to let your property without a proper AL license issued by the local town-council.
 
 ### Mortgages
 

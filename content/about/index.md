@@ -20,7 +20,7 @@ The object of this site is to give you a better insight view of the services we 
 
 Let me introduce myself:
 
-My name is Robert M.L. Snapper and I have been in the real-estate business in Portugal since 1982. My last position was Director of “ROBAN Realestate Actividades Ldª" based in Lagos and still Managing Director of Pargo ReAct Ldª.
+My name is Robert M.L. Snapper and I have been in the real-estate business in Portugal since 1982. I am still the Director of “ROBAN Realestate Actividades Ldª" a realesate company trading under the name "REALESTATE ALGARVE" based in Lagos, and I am also the Managing Director of Pargo ReAct Ldª.
 
 Main activity of the company was acting as a realestate agent but we also were involved in many other activities..
 

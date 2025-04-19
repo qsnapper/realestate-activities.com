@@ -46,11 +46,11 @@ Besides to assist you advising with buying and/or selling many may feel the need
 
 ### Project Management
 
-In case you decide to purchase a building plot or an old farm house to convert please make sure you can afford what you intend to do. As good locations are getting scares many decide to buy an older property in the right location to do it up and modernise in order to meet today’s standards. Let somebody make you a good budget as unfortunately things always turn out more expensive than expected and there is nearly always hidden cost. Read the full article on our info site:
+In the past I was involved with the construction of many villa from small to big. In case you decide to purchase a building plot or an old farm house to convert please make sure you can afford what you intend to do. As good locations are getting scares many decide to buy an older property in the right location to do it up and modernise in order to meet today’s standards. Let somebody make you a good budget as unfortunately things always turn out more expensive than expected and there is nearly always hidden cost. Read the full article on our info site:
 
 ### Property Management
 
-Once the owner of a house or Apartment it is more or less inevitable that you will need somebody to look after your property. Quite often friends will offer to do his for you but using a professional team has additional value. We are here 365 days of the year to assist you. For quite a few clients we take care or the day to day running of their property by doing either full management or we provide individual tailor made services. This part of the business has been taken over by 2 old employees, Enid Hut and Caroline Noterman. Their company Pamvillas, [www.pamvillas.com](http://www.pamvillas.com)  is based alsoin the same building adjacent to my office, and they are at Nº 10.
+Once the owner of a house or Apartment it is more or less inevitable that you will need somebody to look after your property. Quite often friends will offer to do his for you but using a professional team has additional value. They are here 365 days of the year to assist you. For quite a few clients we took take care or the day to day running of their properties by doing either full management or we provide individual tailor made services. This part of the business has been taken over by 2 old employees, Enid Hut and Caroline Noterman. Their company Pamvillas, [www.pamvillas.com](http://www.pamvillas.com)  is based also in the same building adjacent to my office, and they are at office Nº 10. 
 
 ### Rentals is now done by Pamvillas.
 
@@ -58,11 +58,11 @@ Besides the management of properties we also have a department dealing with rent
 
 ### Mortgages
 
-Might you feel the need to have a mortgage on your property in Portugal we also can advise you on this. We have good contacts with bank and many mortgage lenders although with today’s economic situation it is highly unlikely that we will get one easily.
+Might you feel the need to have a mortgage on your property in Portugal we also can advise you on this. We have good contacts with bank and many mortgage lenders. 
 
 ### Representation
 
-Besides advising you regarding buying and selling properties, some owners also ask me to represent them in the sale or purchase of their property. Besides individual representation I also represent many off-shore companies in Portugal.
+Besides advising you regarding buying and selling properties, some owners also ask me to represent them in the sale or purchase of their property. Besides individual representation I also represent off-shore companies and foreign registered companies in Portugal.
 
 ### Fiscal Representation
 
@@ -72,7 +72,7 @@ Although anybody owning a property or bank account in Portugal no longer by law 
 
 Anybody living in Portugal or letting their property is obliged to submit in Portugal on a yearly basis a tax return declaring their worldwide and/or rental income. Our office knows how to deal with these matters. Tax returns in your own country might be already difficult, in a foreign country it may turn out even more complex. Also many people in the past have forgotten to declare the sale of their property the year after the sale. Heavy fines and interest can be the result if you forget.
 
-Resuming: anybody who is a Resident in this country is also obliged to submit a tax return declaring their world wide income!
+Resuming: anybody who is a Resident in this country is also obliged to submit a tax return declaring their world wide income! This part of the business also has been taken over by Pamvillas.
 
 ### Red tape & beurocratic matters
 
@@ -80,23 +80,7 @@ Nowadays many people not only have a holiday place but have decided to take up p
 
 ### Translations & Interpreters
 
-In case people need documents or letters to be translated from Portuguese to English or Dutch to Portuguese or reverse we will be able to assist. You may need an interpreter to speak to or negotiate or you may need an interpreter in court. We provide this service.
-
-### Car Rentals
-
-Not an official part of our companies activity but as one of the members of our staff runs this as a site business we also here will be able to give you service.
-
-### Your property on the web
-
-Although I am no longer active as an Estate Agent we still have our web-sites up and running and we offer people the possibility to promote their property through our web-sites. Have a look at:
-
-[www.realestate-algarve.com](http://www.realestate-algarve.com/)
-
-[www.real-estate-algarve.com](http://www.real-estate-algarve.com/)
-
-### Property Submission Form
-
-In case interested in promoting your property we will send you a property submission form for you to fill in.
+In case people need documents or letters to be translated from Portuguese to English or Dutch to Portuguese or reverse we will be able to assist. You may need an interpreter to speak to or negotiate or you may need an interpreter in court. This part also has been taken over by Pamvillas.
 
 ### Price List
 
@@ -118,5 +102,6 @@ Please contact us for quotes in any specific cases or look at our standard price
 1982 - 1990 Independent estate agent with company in Portimão
 1990 - 2001 Independent estate agent in individual name in Bensafrim
 2001 - 2008 Director of Ricola Algarvia Med. Imob. Unipessoal Ldª & ReAct
-2009        All of our staff is Multi lingual and besides English we speak Portuguese, German and Dutch.
+2016 - 2025 Director of ROBAN Realestate Actividades Ldª
+2019 - 2025 Director of PARGO ReAct Ldª
 ```

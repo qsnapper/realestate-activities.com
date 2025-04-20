@@ -9,6 +9,8 @@ toc: true
 weight: 16
 ---
 
+**This part of my business has been taken over by PAMvillas of Enid F. Hut and Caroline Noterman. They have an office adjacent to mine in Urb. Iberlagos Bloco J Office 10 (I am on 11). info\@pamvillas.com www\.pamvillas.com  **
+
 The new rental season is approaching fast. January being normally the month that people start considering where to spent their spring or summer holidays. Not unlikely that the present credit crises will have an effect on bookings for properties in the Algarve. The severe drop in exchange rate of the £ sterling against the Euro during the past year and the fact that we are heavily depending on the British market will have an impact for property owners.
 
 Of course people still will come on holiday but will have a wide choice of good properties and look for good value for money or bargains.

@@ -1,5 +1,5 @@
 ---
-title: Application Energy Certificate
+title: Energy Certificate
 description: Application Energy Certificate
 translationKey: energyCertificate
 date: 2009-01-16T13:21:57.000Z

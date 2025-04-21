@@ -15,19 +15,17 @@ draft: false
 
 ## Introductie
 
-[www.realestate-activities.com](http://www.realestate-activities.com/) is een informatieve web site eigendom van Robert M.L. Snapper. 
+[www.realestate-activities.com](http://www.realestate-activities.com/) is een informatieve web site eigendom van Robert M.L. Snapper. werkzaam op eigen naam "Robert M.L. Snapper E.N.I." (Empresario em Nome Individual - vergelijkbaar met Z.Z.P. er.
 
-Daarnaast ben ik werkzaam op eigen naam "Robert M.L. Snapper E.N.I."
+Deze website heeft als doel U een inzicht te geven in de diensten die ik/wij verlenen waar in dit geval Nederlanders misschien behoefte aan hebben. 
 
-Deze website heeft als doel U een inzicht te geven in de diensten die wij verlenen waar in dit geval Nederlanders misschien behoefte aan hebben. 
+Maar als u op zoek bent naar uitgebreidere informtaie kunt U kijken op de nieuwe website:  [www.realestate-algarve.info](http://www.realestate-algarve.info)
 
-Maar het is beter om te kijken op de nieuwe website:  [www.realestate-algarve.info](http://www.realestate-algarve.info)
+Na het beëindigen op 31-12-2009 van 27 jaar Makelaars activiteiten via Ricola Algarvia Ldª ben ik altijd actief gebleven als o.g. adviseur maar is er in 2021 weer een nieuwe Makelaarsvergunning aangevraagd en verkregen nu onder de naam ROBAN Realestate Actividades Lda mey AMI-19561.
 
-Na het beëindigen op 31-12-2009 van 27 jaar Makelaars activiteiten via Ricola Algarvia Ldª ben ik altijd actief gebleven als adviseur maar is er in 2021 weer een nieuwe Makelaarsvergunning aangevraagd en verkregen nu onder de naam ROBAN Realestate Actividades Lda mey AMI-19561.
+Ik besloot echter om op 31-12-2024 mijn actieve Makelaars loopbaan definitief. vanwege de leeftijd 76, te beeindigen, maar nog wel actief te blijven als adviseur van oude klanten.
 
-Ik besloot echter om op 31-12-2024 mijn actieve Makelaars loopbaan definitief te beeindigen, maar nog wel actief te blijven als adviseur van oude klanten.
-
-Vanwege het feit dat wij meer dan 45 jaar in Portugal wonen, meertalig zijn (Engels, Portugees, Duits en Nederlands) denk ik dat u mogelijk kunt profiteren van onze “Portugal Experience”.
+Vanwege het feit dat wij meer dan 45 jaar in Portugal wonen, meertalig zijn (Engels, Portugees, Duits en Nederlands) denk ik dat u mogelijk kunt profiteren van mijn “Portugal Experience”.
 
 ## Informatie
 

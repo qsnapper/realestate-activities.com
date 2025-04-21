@@ -53,7 +53,7 @@ In het geval dat men besluit om een bouwkavel te kopen of een grondstuk waarop g
 
 ## Huizenheheer
 
-Éénmaal eigenaar van een huis of Appartement en zeker als U hier niet permanent woont, dan is het bijna onvermijdelijk dat U iemand nodig heeft om de lopende zaken van Uw object te regelen. Property Management noemen we dat. Mijn kantoor heeft daar 2 dames voor die dit al jaren doen. Zij spreken allebei naast Nederlands vloeiend Portugees en Engels. Vijf jaar geleden hebben zij dir deel van de activiteiten overgenomen en werken sindsdien onder de naam PAMvillas. Hun kantoor is naast dat van mij op nummer 10. www\.pamvillas.com 
+Éénmaal eigenaar van een huis of Appartement en zeker als U hier niet permanent woont, dan is het bijna onvermijdelijk dat U iemand nodig heeft om de lopende zaken van Uw object te regelen. Property Management noemen we dat. Mijn kantoor heeft daar 2 dames voor die dit al jaren doen. Zij spreken allebei naast Nederlands vloeiend Portugees en Engels. Vijf jaar geleden hebben zij dir deel van de activiteiten overgenomen en werken sindsdien onder de naam PAMvillas. Hun kantoor is naast dat van mij op nummer 10. [www.pamvillas.com](http://www.pamvillas.com)
 
 ## Verhuur
 
@@ -101,11 +101,11 @@ Gedurende 2009 is er veel onrust ontstaan omdat het opeens duidelijk werd dat ie
 
 ## Maken Testament
 
-Niet iedereen wil er over nadenken maar niemand is sterfelijk en het leed voor de nabestaanden is vaak niet te overzien indien U de zaken niet goed heeft geregeld. Tesamen met onze advocaat kunnen we zorgen dat U hier in Portugal een passend Portugees testament te maken.
+Niet iedereen wil er over nadenken maar niemand is sterfelijk en het leed voor de nabestaanden is vaak niet te overzien indien U de zaken niet goed heeft geregeld. Tesamen met onze advocaat kunnen we zorgen dat U hier in Portugal een passend Portugees testament te maken. Of laat uw Nederlandse testamant beoordelen om te zien of het nodig is in Portugal ook een testament te maken.
 
 ## Afhandeling Erfenis
 
-Niemand is onsterfelijk en als het onvermijdelijke dan gebeurt dan kunnen wij de nabestaanden wederom in samenwerking met onze advocate behulpzaam zijn met de afhandeling van de erfenis van de in Portugal gelegen vermogensbestandsdelen of Uw hele nalatenschap indien U hier permanent woont.
+Niemand is onsterfelijk en als het onvermijdelijke dan gebeurt dan kunnen wij de nabestaanden wederom in samenwerking met onze advocate behulpzaam zijn met de afhandeling van de erfenis van de in Portugal gelegen vermogensbestandsdelen of Uw hele nalatenschap indien U hier permanent woont. Op dit moment en in deze fase van mijn werkzame leven ben ik hier steeds meer bij betrokken.
 
 ***
 
@@ -128,6 +128,7 @@ Curriculum Vitae:
 1990-2001 Zelfstandig makelaar op eigen naam.
 2001-2010 Directeur Ricola Algarvia Ldª
 2001-2017 Directeur Realestate – Activities
-2010-2016 Werkzaam op zegen naam z.z.p er
-2016      Directeur ROBAN Realestate Actividades Unipessoal Ldª
+2010-2025 Werkzaam op zegen naam Robert M,L, Snapper-ENI =z.z.p er
+2016-2025 Directeur ROBAN Realestate Actividades Unipessoal Ldª
+2019-2025 Directuer Pargo RwAct Ldº
 ```

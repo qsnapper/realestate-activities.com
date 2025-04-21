@@ -41,23 +41,23 @@ Is het kopen van onroerend goed in Nederland al een grote stap en wordt vaak b
 
 ## Titelonderzoek en Documentatie
 
-Veel mensen hebben mogelijk een object of leuk boerderijtje gezien en zijn in contact gekomen óf met de Portugese eigenaren zelf óf met een makelaar die niet Uw taal spreekt. Wees voorzichtig met wat men u vertelt. Er is niet altijd kwade opzet in het spel maar er zijn maar weinig mensen die precies weten hoe de bureaucratie hier werkt en of op de hoogte is van de laatste wet- en regelgeving. Natuurlijk kan een lokale advocaat uitkomst bieden, maar ook hier kunnen vaak taalbarrieres tot misverstanden of verkeerd begrijpen leiden. Ook zijn niet alle advocaten even makkelijk toegangelijk. Mogelijk kan ik in veel gevallen hulp bieden en U een eerste antwoord op uw vragen geven en mocht hulp van een advocaat nodig zijn dan hebben wij waarschijnlijk vanwege onze geregelde contacten met deze beroepsgroep een betere toegankelijkheid en kunnen die personen aanbevelen die mogelijk het beste aansluiten bij Uw specifieke situatie..
+Veel mensen hebben mogelijk een object of leuk boerderijtje gezien en zijn in contact gekomen óf met de Portugese eigenaren zelf óf met een makelaar die niet Uw taal spreekt. Wees voorzichtig met wat men u vertelt. Er is niet altijd kwade opzet in het spel maar niet iedereen weet precies hoe de bureaucratie hier werkt  of is op de hoogte is van de laatste wet- en regelgeving. Natuurlijk kan een lokale advocaat uitkomst bieden, maar ook hier kunnen vaak taalbarrieres tot misverstanden of verkeerd begrijpen leiden. Ook zijn niet alle advocaten even makkelijk toegangelijk. Mogelijk kan ik in veel gevallen hulp bieden en U een eerste antwoord op uw vragen geven en mocht hulp van een advocaat nodig zijn dan hebben wij waarschijnlijk vanwege onze geregelde contacten met deze beroepsgroep een betere toegankelijkheid en kunnen die personen aanbevelen die mogelijk het beste aansluiten bij Uw specifieke situatie..
 
 ## Taxaties
 
-Als Makelaar kan ik U natuurlijk bijstaan bij een eventuele aan- of verkoop van een onroerend goed. d.m.v. van zaakwaarneming (procuratiehouder) kan ik professionele taxaties uitvoeren. Heeft men een object op het oog om te kopen en wil men een onafhankelijke expertise hebben of het aan te kopen object de juiste waarde vertegenwoordigd vraag dan een taxatie aan. Wij hebben het hier over taxaties van marktwaarde en geen bouw technische keuring welke meestal door een bouwkundig Ingenieur gedaan worden. Hetzelfde geldt natuurlijk ook voor verkopers.
+Als (Oud) Makelaar kan ik U natuurlijk bijstaan bij een eventuele aan- of verkoop van een onroerend goed. d.m.v. van zaakwaarneming (procuratiehouder) kan ik professionele taxaties uitvoeren. Heeft men een object op het oog om te kopen en wil men een onafhankelijke expertise hebben of het aan te kopen object de juiste waarde vertegenwoordigd vraag dan een taxatie aan. Wij hebben het hier over taxaties van marktwaarde en geen bouw technische keuring welke meestal door een bouwkundig Ingenieur gedaan worden. Hetzelfde geldt natuurlijk ook voor verkopers.
 
 ## Bouwbegeleiding
 
-In het geval dat men besluit om een bouwkavel te kopen of een grondstuk waarop gebouwd kan worden dan kan ik een beperkt aantal bouwprojecten begeleiden en U tevens advies geven over de beste manier om uw object aan te kopen, hetzij in individuele naam, hetzij d.m.v. een off-shore of via andere constructie.
+In het geval dat men besluit om een bouwkavel te kopen of een grondstuk waarop gebouwd kan worden dan kan ik een beperkt aantal bouwprojecten begeleiden en U tevens advies geven over de beste manier om uw object aan te kopen, hetzij in individuele naam, hetzij d.m.v. een off-shore of via andere constructie. Deze activiteit voer ik niet lamger uit vanwege de leeftijd.
 
 ## Huizenheheer
 
-Éénmaal eigenaar van een huis of Appartement en zeker als U hier niet permanent woont, dan is het bijna onvermijdelijk dat U iemand nodig heeft om de lopende zaken van Uw object te regelen. Property Management noemen we dat. Mijn kantoor heeft daar 2 dames voor die dit al jaren doen. Zij spreken allebei naast Nederlands vloeiend Portugees en Engels. Voor informatie zie: [www.ricola-algarvia.eu](http://www.ricola-algarvia.eu/).
+Éénmaal eigenaar van een huis of Appartement en zeker als U hier niet permanent woont, dan is het bijna onvermijdelijk dat U iemand nodig heeft om de lopende zaken van Uw object te regelen. Property Management noemen we dat. Mijn kantoor heeft daar 2 dames voor die dit al jaren doen. Zij spreken allebei naast Nederlands vloeiend Portugees en Engels. Vijf jaar geleden hebben zij dir deel van de activiteiten overgenomen en werken sindsdien onder de naam PAMvillas. Hun kantoor is naast dat van mij op nummer 10. www\.pamvillas.com 
 
 ## Verhuur
 
-Voor veel mensen is het belangrijk dat een deel van de jaarlijkse kosten van onderhoud van een huis gedekt worden door verhuur voor kortere of langere termijn. De wetgeving is zeer complex op dit gebied en wij verzorgen de aanvraag van vergunningen. Voorts kunt U via onze zustermaatschappij Uw object ter verhuur aanbieden via verschillende van onze websites zoals b.v. [www.holidays-portugal.com](http://www.holidays-portugal.com/)  
+Voor veel mensen is het belangrijk dat een deel van de jaarlijkse kosten van onderhoud van een huis gedekt worden door verhuur voor kortere of langere termijn. De wetgeving is zeer complex op dit gebied en wij verzorgen de aanvraag van vergunningen. Voorts kunt U via onze zustermaatschappij Pamvillas Uw object ter verhuur aanbieden.
 
 ## Hypotheken
 

@@ -41,7 +41,7 @@ Is het kopen van onroerend goed in Nederland al een grote stap en wordt vaak b
 
 ## Titelonderzoek en Documentatie
 
-Veel mensen hebben mogelijk een object of leuk boerderijtje gezien en zijn in contact gekomen óf met de Portugese eigenaren zelf óf met een makelaar die niet Uw taal spreekt. Wees voorzichtig met wat men u vertelt. Er is niet altijd kwade opzet in het spel maar niet iedereen weet precies hoe de bureaucratie hier werkt  of is op de hoogte is van de laatste wet- en regelgeving. Natuurlijk kan een lokale advocaat uitkomst bieden, maar ook hier kunnen vaak taalbarrieres tot misverstanden of verkeerd begrijpen leiden. Ook zijn niet alle advocaten even makkelijk toegangelijk. Mogelijk kan ik in veel gevallen hulp bieden en U een eerste antwoord op uw vragen geven en mocht hulp van een advocaat nodig zijn dan hebben wij waarschijnlijk vanwege onze geregelde contacten met deze beroepsgroep een betere toegankelijkheid en kunnen die personen aanbevelen die mogelijk het beste aansluiten bij Uw specifieke situatie..
+Veel mensen hebben mogelijk een object of leuk boerderijtje gezien en zijn in contact gekomen óf met de Portugese eigenaren zelf óf met een makelaar die niet Uw taal spreekt. Wees voorzichtig met wat men u vertelt. Er is niet altijd kwade opzet in het spel maar niet iedereen weet precies hoe de bureaucratie hier werkt  of is op de hoogte is van de laatste wet- en regelgeving. Natuurlijk kan een lokale advocaat uitkomst bieden, maar ook hier kunnen vaak taalbarrieres tot misverstanden of verkeerd begrijpen leiden. Ook zijn niet alle advocaten even makkelijk toegangelijk. Mogelijk kan ik in veel gevallen hulp bieden en U een eerste antwoord op uw vragen geven en mocht hulp van een advocaat nodig zijn dan hebben wij waarschijnlijk vanwege onze geregelde contacten met deze beroepsgroep een betere toegankelijkheid en kunnen die personen aanbevelen die mogelijk het beste aansluiten bij Uw specifieke situatie.
 
 ## Taxaties
 
@@ -49,7 +49,7 @@ Als (Oud) Makelaar kan ik U natuurlijk bijstaan bij een eventuele aan- of verk
 
 ## Bouwbegeleiding
 
-In het geval dat men besluit om een bouwkavel te kopen of een grondstuk waarop gebouwd kan worden dan kan ik een beperkt aantal bouwprojecten begeleiden en U tevens advies geven over de beste manier om uw object aan te kopen, hetzij in individuele naam, hetzij d.m.v. een off-shore of via andere constructie. Deze activiteit voer ik niet lamger uit vanwege de leeftijd.
+In het geval dat men besluit om een bouwkavel te kopen of een grondstuk waarop gebouwd kan worden dan kan ik een beperkt aantal bouwprojecten begeleiden en U tevens advies geven over de beste manier om uw object aan te kopen, hetzij in individuele naam, hetzij d.m.v. een off-shore of via andere constructie. Bouwen is echter een zeer complex en langdurig proces waar vele jaren mee zijn gemoeid. Is niet voor iedereen aan te raden! Deze activiteit voer ik niet langer uit vanwege de leeftijd.
 
 ## Huizenheheer
 
@@ -73,7 +73,7 @@ Iedereen die iets in Portugal gaat kopen krijgt te maken met de Portugese bela
 
 ## Belastingaangiftes
 
-Iedereen die in Portugal woont of zijn huis verhuurt is verplicht elk jaar een aangifte te doen van Inkomstenbelasting. Wij zij goed op de hoogte van hoe te handelen in geval van inkomen uit Nederland. De materie is complex en door onze jarenlange ervaring hebben wij goede contacten met de belastingauthoriteiten. Wij verzorgen jaarlijks de aangiftes van vele tientallen klanten.
+Iedereen die in Portugal woont of zijn huis verhuurt is verplicht elk jaar een aangifte te doen van Inkomstenbelasting. Wij zij goed op de hoogte van hoe te handelen in geval van inkomen uit Nederland. De materie is complex en door onze jarenlange ervaring hebben wij goede contacten met de belastingauthoriteiten. Wij verzorgen jaarlijks de aangiftes van vele tientallen klanten. Deze activiteit is ook overgenamen door PAMvillas.
 
 ## Bureaucratische Zaken
 

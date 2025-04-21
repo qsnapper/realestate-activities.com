@@ -15,7 +15,7 @@ draft: false
 
 ## Introductie
 
-[www.realestate-activities.com](http://www.realestate-activities.com/) is een informatieve web site eigendom van Robert M.L. Snapper. werkzaam op eigen naam "Robert M.L. Snapper E.N.I." (Empresario em Nome Individual - vergelijkbaar met Z.Z.P. er.
+[www.realestate-activities.com](http://www.realestate-activities.com/) is een informatieve web site eigendom van Robert M.L. Snapper, naast Directeur van een aaantal firmá, ook werkzaam op eigen naam "Robert M.L. Snapper E.N.I." (Empresario em Nome Individual - vergelijkbaar met Z.Z.P. er.) Door de jaren heen staat mijn firma bekend als ReAct (Realestate Activities).
 
 Deze website heeft als doel U een inzicht te geven in de diensten die ik/wij verlenen waar in dit geval Nederlanders misschien behoefte aan hebben. 
 

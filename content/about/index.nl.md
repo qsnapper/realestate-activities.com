@@ -27,6 +27,10 @@ Ik besloot echter om op 31-12-2024 mijn actieve Makelaars loopbaan definitief. v
 
 Vanwege het feit dat wij meer dan 45 jaar in Portugal wonen, meertalig zijn (Engels, Portugees, Duits en Nederlands) denk ik dat u mogelijk kunt profiteren van mijn “Portugal Experience”.
 
+Ons kantoor ia in de Urb. Iberlagos - Bloco J - Kantoor 11, maar is alleen open na afspraak. Ingang tegenover de Bombeiros in Lagos.
+
+![](</Screenshot 2025-04-21 081224.jpg>)
+
 ## Informatie
 
 Zonder enige twijfel heeft Portugal en de Algarve in het bijzonder buitenlanders, dus ook Nederlanders veel te bieden. Met zijn goede klimaat het gehele jaar door leent het zich voor veel buitenactiviteiten en is het een zeer aangenaam land/gebied om kortere of langere tijd te vertoeven en men kan er mogelijk een nog wat meer relaxte leefstijl op na houden. (Quality of life). Laat de zon u echter niet verblinden want ondanks “1 Europa” is er veel waar U aan moet denken. Om deze reden heb ik een website gemaakt die mogelijk veel andersoortige en meer gerichte informatie bevat die voor U Nederlanders van belang kan zijn. Zie daarom [www.realestate-algarve.info](http://www.realestate-algarve.info/). 

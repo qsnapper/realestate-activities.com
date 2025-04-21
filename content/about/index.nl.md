@@ -130,5 +130,5 @@ Curriculum Vitae:
 2001-2017 Directeur Realestate – Activities
 2010-2025 Werkzaam op zegen naam Robert M,L, Snapper-ENI =z.z.p er
 2016-2025 Directeur ROBAN Realestate Actividades Unipessoal Ldª
-2019-2025 Directuer Pargo RwAct Ldº
+2019-2025 Directuer Pargo ReAct Ldº
 ```

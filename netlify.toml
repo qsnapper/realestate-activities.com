@@ -1,10 +1,12 @@
 [build]
 publish = "public"
-command = "tinacms build && hugo --gc --minify"
+command = "npx tinacms build && hugo --gc --minify"
 
 # Always trigger a rebuild, even if the files haven't changed.
 # See https://docs.netlify.com/configure-builds/file-based-configuration/#ignore-builds
 ignore = "false"
 
 [build.environment]
-HUGO_VERSION = "0.117.0"
+HUGO_VERSION = "0.168.0"
+NODE_VERSION = "24"
+GO_VERSION = "1.24"

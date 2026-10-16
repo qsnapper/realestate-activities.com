@@ -19,23 +19,18 @@ outputs:
 defaultContentLanguage: en
 languages:
   en:
-    languageName: English
+    label: English
     weight: 1
     title: Realestate Activities
   
   nl:
-    languageName: Dutch
-    languageCode: nl
-    languageDirection: ltr
+    label: Dutch
+    locale: nl
+    direction: ltr
     weight: 3
     title: Realestate Activities
 
 module:
-  hugoVersion:
-    extended: true
-    min: "0.112.0"
-
-  workspace: hugo.work
   imports:
     - path: github.com/imfing/hextra
 
@@ -66,11 +61,6 @@ menu:
       weight: 5
       params:
         type: search
-    - name: GitHub
-      weight: 6
-      url: "https://github.com/imfing/hextra"
-      params:
-        icon: github
 
   sidebar:
     - identifier: more
@@ -108,8 +98,10 @@ params:
 
   footer:
     enable: true
-    displayCopyright: true
-    displayPoweredBy: true
+    # Company details, copyright and notice come from data/footer.yaml,
+    # rendered by layouts/_partials/custom/footer.html
+    displayCopyright: false
+    displayPoweredBy: false
     width: normal
 
   displayUpdatedDate: true

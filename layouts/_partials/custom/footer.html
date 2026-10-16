@@ -1,0 +1,14 @@
+{{- /* Company details for the site footer; edited via TinaCMS in data/footer.yaml */ -}}
+{{- with hugo.Data.footer -}}
+  <div class="rea-footer">
+    {{- with .companyName }}<div class="rea-footer-company">{{ . }}</div>{{ end }}
+    {{- with .address }}<div>{{ . }}</div>{{ end }}
+    {{- with .contactInfo1 }}<div>Tel: {{ . }}</div>{{ end }}
+    {{- with .contactInfo2 }}<div>Fax: {{ . }}</div>{{ end }}
+    {{- with .contactInfo3 }}<div>Mobile: {{ . }}</div>{{ end }}
+    {{- with .email }}<div class="rea-footer-strong"><a href="mailto:{{ . }}">E-Mail: {{ . }}</a></div>{{ end }}
+    {{- with .url }}<div class="rea-footer-strong"><a href="{{ . }}" target="_blank" rel="noopener">URL: {{ . }}</a></div>{{ end }}
+    {{- with .copyright }}<div class="rea-footer-copyright">{{ . }}</div>{{ end }}
+    {{- with .poweredBy }}<div>{{ . | markdownify }}</div>{{ end }}
+  </div>
+{{- end -}}

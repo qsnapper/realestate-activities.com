@@ -4,23 +4,23 @@ translationKey: home
 layout: hextra-home
 ---
 
-<div class="hx-mt-6 hx-mb-6">
+<div class="hx:mt-6 hx:mb-6">
 {{< hextra/hero-headline >}}
   ReAct - Realestate Activities
 {{< /hextra/hero-headline >}}
 </div>
 
-<div class="hx-mb-12">
+<div class="hx:mb-12">
 {{< hextra/hero-subtitle >}}
-  We can help with advice, translations, property management, and legal matters. &nbsp;<br class="sm:hx-block hx-hidden" />We also offer tax assistance and can help clients obtain residency in Portugal.
+  We can help with advice, translations, property management, and legal matters. &nbsp;<br class="hx:hidden hx:sm:block" />We also offer tax assistance and can help clients obtain residency in Portugal.
 {{< /hextra/hero-subtitle >}}
 </div>
 
-<div class="hx-mb-6">
+<div class="hx:mb-6">
 {{< hextra/hero-button text="Our Services" link="docs" >}}
 </div>
 
-<div class="hx-mt-6"></div>
+<div class="hx:mt-6"></div>
 
 {{< hextra/feature-grid >}}
   

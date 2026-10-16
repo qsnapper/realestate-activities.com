@@ -6,23 +6,23 @@ layout: hextra-home
 ---
 
 
-<div class="hx-mt-6 hx-mb-6">
+<div class="hx:mt-6 hx:mb-6">
 {{< hextra/hero-headline >}}
   ReAct - Realestate Activities
 {{< /hextra/hero-headline >}}
 </div>
 
-<div class="hx-mb-12">
+<div class="hx:mb-12">
 {{< hextra/hero-subtitle >}}
-  Wij kunnen u helpen met advies, vertalingen, vastgoedbeheer en juridische zaken. &nbsp;<br class="sm:hx-block hx-hidden" />We bieden ook fiscale bijstand en kunnen klanten helpen bij het verkrijgen van een verblijfsvergunning in Portugal.
+  Wij kunnen u helpen met advies, vertalingen, vastgoedbeheer en juridische zaken. &nbsp;<br class="hx:hidden hx:sm:block" />We bieden ook fiscale bijstand en kunnen klanten helpen bij het verkrijgen van een verblijfsvergunning in Portugal.
 {{< /hextra/hero-subtitle >}}
 </div>
 
-<div class="hx-mb-6">
+<div class="hx:mb-6">
 {{< hextra/hero-button text="Onze diensten" link="docs" >}}
 </div>
 
-<div class="hx-mt-6"></div>
+<div class="hx:mt-6"></div>
 
 {{< hextra/feature-grid >}}
   

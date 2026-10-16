@@ -1,30 +1,72 @@
+/* Site styles layered on top of the Hextra theme.
+   Brand colours: purple #990099 for headings and titles, green #009900 for links. */
 
-.content :where(h1):not(:where([class~=not-prose],[class~=not-prose] *)) {
-    color: #990099;
-  }
+.content :where(h1, h2, h3):not(:where([class~=not-prose], [class~=not-prose] *)) {
+  color: #990099;
+}
 
-  .content :where(h2):not(:where([class~=not-prose],[class~=not-prose] *)) {
-    color: #990099;
-  }
+/* Titles outside the page content: page title, navbar site title,
+   home page feature cards and blog list entries */
+main#content h1:not(.not-prose),
+.hextra-nav-container a > span.hx\:font-extrabold,
+.hextra-feature-card h3,
+main#content > div > h3 {
+  color: #990099;
+}
 
-  .content :where(h3):not(:where([class~=not-prose],[class~=not-prose] *)) {
-    color: #990099;
-  }
-  .content :where(h3):not(:where([class~=not-prose],[class~=not-prose] *)):is(html[class~="dark"] *) {
-    color: #990099;
-  }
+/* Blog list "Read more" links */
+main#content > div > p > a[aria-label] {
+  color: #009900;
+}
 
-  .custom-title {
-    color: #990099;
-  }
-  .linkcolor {
-    color: #009900;
-  }
-  .hometext {
-    color: #6b7280
-  }
+/* Titles outside the content fall back to the theme colour in dark mode */
+:where(.dark) :is(
+  main#content h1:not(.not-prose),
+  .hextra-nav-container a > span.hx\:font-extrabold,
+  .hextra-feature-card h3,
+  main#content > div > h3
+) {
+  color: inherit;
+}
 
-  /* Override color for .custom-title in dark mode */
-  :where(.custom-title):is(html[class~="dark"] *) {
-  color: inherit; /* Or specify another color suitable for dark mode */
-  }
+/* Home page headline: solid purple instead of the theme's grey gradient */
+html:not(.dark) h1.hx\:bg-clip-text {
+  background-image: none;
+  color: #990099;
+}
+
+/* Secondary text (sidebar links, dates, search hint) in purple, light mode only;
+   feature card descriptions stay grey */
+html:not(.dark) .hx\:text-gray-500:not(.hextra-feature-card p) {
+  color: #990099;
+}
+
+/* Primary buttons and highlights in green */
+.hx\:bg-primary-400,
+.hx\:bg-primary-600,
+.hx\:hover\:bg-primary-700:hover,
+.hx\:dark\:bg-primary-600:where(.dark, .dark *),
+.hx\:dark\:hover\:bg-primary-700:hover:where(.dark, .dark *) {
+  background-color: #009900;
+}
+
+/* Company details in the footer (layouts/_partials/custom/footer.html) */
+.rea-footer {
+  display: flex;
+  flex-direction: column;
+  padding: 3rem 0;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+.rea-footer-company {
+  font-size: 1rem;
+  font-weight: 600;
+}
+.rea-footer-strong {
+  font-weight: 600;
+}
+.rea-footer-copyright {
+  margin-top: 1rem;
+  font-size: 1rem;
+  font-weight: 600;
+}

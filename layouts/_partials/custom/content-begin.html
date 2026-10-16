@@ -1,0 +1,7 @@
+{{- /* Theme hook that runs before each page's content. Renders sections that
+       editors fill in through form fields in TinaCMS instead of shortcodes. */ -}}
+{{- if .IsHome -}}
+  {{- partial "home-sections.html" . -}}
+{{- else if and (eq .Kind "section") (eq .Section "blog") -}}
+  {{- partial "rss-badge.html" . -}}
+{{- end -}}

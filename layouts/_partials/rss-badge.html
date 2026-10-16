@@ -1,0 +1,11 @@
+{{- /* RSS link at the top of the blog list; markup follows Hextra's hero-badge shortcode */ -}}
+{{- with .OutputFormats.Get "rss" -}}
+  <div style="text-align: center; margin-top: 1em;">
+    <a href="{{ .RelPermalink }}" class="not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200">
+      <span>RSS</span>
+      <span class="hx:inline-block hx:align-text-bottom hextra-icon">
+        {{- partial "utils/icon.html" (dict "name" "rss" "attributes" "height=14") -}}
+      </span>
+    </a>
+  </div>
+{{- end -}}

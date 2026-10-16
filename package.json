@@ -1,24 +1,22 @@
 {
+  "private": true,
   "scripts": {
-    "dev:theme": "hugo server --logLevel=debug --config=hugo.yaml,../dev.toml --environment=theme --source=exampleSite --themesDir=../.. --disableFastRender -D --port 1313",
-    "dev": "hugo server --source=exampleSite --themesDir=../.. --disableFastRender -D --port 1313",
-    "build:css": "npx postcss --config postcss.config.js --env production assets/css/styles.css -o assets/css/compiled/main.css",
-    "build": "hugo --gc --minify --themesDir=../.. --source=exampleSite"
+    "dev": "tinacms dev -c \"hugo server -D --port 1313\"",
+    "build": "tinacms build && hugo --gc --minify"
   },
-  "devDependencies": {
-    "@tailwindcss/nesting": "^0.0.0-insiders.565cd3e",
-    "@tinacms/cli": "^1.5.45",
-    "@types/node": "^20.12.12",
-    "autoprefixer": "^10.4.19",
-    "postcss": "^8.4.38",
-    "postcss-cli": "^11.0.0",
-    "postcss-import": "^16.1.0",
-    "prettier": "^3.2.5",
-    "prettier-plugin-go-template": "^0.0.15",
-    "tailwindcss": "^3.4.3"
+  "engines": {
+    "node": ">=22 <25"
   },
   "dependencies": {
-    "@tinacms/search": "^1.0.19",
-    "tinacms": "^1.6.7"
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "tinacms": "^3.14.4"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^4.0.2"
+  },
+  "allowScripts": {
+    "better-sqlite3@12.11.1": true,
+    "esbuild@0.28.2": true
   }
 }
